@@ -1,0 +1,15 @@
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\bin\Debug\net5.0\PostsSite.Application.deps.json
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\bin\Debug\net5.0\PostsSite.Application.dll
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\bin\Debug\net5.0\PostsSite.Application.pdb
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\bin\Debug\net5.0\Posts.Domain.dll
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\bin\Debug\net5.0\Posts.Domain.pdb
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.csproj.AssemblyReference.cache
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.AssemblyInfoInputs.cache
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.AssemblyInfo.cs
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.csproj.CoreCompileInputs.cache
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.csproj.CopyComplete
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.dll
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\refint\PostsSite.Application.dll
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\PostsSite.Application.pdb
+C:\Users\moran\source\repos\PostsSite\PostsSite\PostsSite.Application\obj\Debug\net5.0\ref\PostsSite.Application.dll
